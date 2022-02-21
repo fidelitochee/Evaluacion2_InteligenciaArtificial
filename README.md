@@ -139,7 +139,10 @@ En la [Imagen7] se observa
   ![Imagen7](/imagenes/grasa_visualize_error.jpeg)  
 
 En la [Imagen8] se observa
-  ![Imagen8](/imagenes/peso_visualize_error.jpeg)  
+  ![Imagen8](/imagenes/peso_visualize_error.jpeg) 
+
+  
+  
   
 ## 6.  Bibliografía
 [1] <a name="c1">“Edad y Rendimiento Corporal - ML | Kaggle.” https://www.kaggle.com/edenniss/age-and-body-performance-ml/notebook (accessed Feb. 06, 2022).</a>
