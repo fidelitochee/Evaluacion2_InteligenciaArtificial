@@ -112,7 +112,9 @@ En la [Imagen8] se observa el producto del analisis de solo el 20% de los datos,
 En la [Imagen9] de igual forma se muestra el mapa de calor de la variable salto de loguitud y como esta influye en la clasificacion en correlacion con las demas variables, se puede observar que tambien existe cierto grado de dispersion pero el grado de clasificacion sigue siendo significativo.
   ![Imagen9](/imagenes/ananlisis20_3.png)
   
-## 5.  Predicciones
+## 5.  Manual de Uso
+  
+## 6.  Predicciones
   
 En la [Imagen1] se observa el test de predicciones en donde solo se toma en cuenta la variable class y nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones.
   ![Imagen1](/imagenes/prediccion_class.jpeg)
