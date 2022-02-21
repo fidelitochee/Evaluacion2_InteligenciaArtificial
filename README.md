@@ -131,14 +131,9 @@ En la [Imagen4] nos muestra un resumen con los resultados que se obtuvieron de l
 En la [Imagen5] se observa el test de predicciones para la variable weight(peso) en donde igualmente nos muestra cada uno de los elementos que intervienen como las iteraciones, la clasificacion actual de la clase,el resultado de la prediccion y el error de prediccion en cada una de las iteracciones
   ![Imagen5](/imagenes/prediccionPeso.jpeg)  
 
-En la [Imagen6] se observa
-  ![Imagen6](/imagenes/matrizPeso.jpeg)    
+En la [Imagen6] nos arroja un resumen de los resultados que se obtuvieron de la evaluación en donde se analizaron un total de 2648 datos y nos presentan valores como el porcentaje de correlación 0.89, y el error relativo absoluto que representa el 42,2514%. Se puede predecir que a mayor peso menor rendimiento corporal de acuerdo a los datos ingresados.
+  ![Imagen6](/imagenes/matrizPeso.jpeg)      
 
-En la [Imagen5] se observa
-  ![Imagen5](/imagenes/prediccionPeso.jpeg)  
-
-En la [Imagen6] se observa
-  ![Imagen6](/imagenes/matrizPeso.jpeg)  
   
 En la [Imagen7] se observa
   ![Imagen7](/imagenes/grasa_visualize_error.jpeg)  
