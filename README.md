@@ -135,10 +135,10 @@ En la [Imagen6] nos arroja un resumen de los resultados que se obtuvieron de la 
   ![Imagen6](/imagenes/matrizPeso.jpeg)      
 
   
-En la [Imagen7] se observa
+En la [Imagen7] se observa una predicción de la grasa corporal, en la cual despues de predecir se determina a mayor grasa corporal menor tasa de rendimiento.
   ![Imagen7](/imagenes/grasa_visualize_error.jpeg)  
 
-En la [Imagen8] se observa
+En la [Imagen8] se observa acerca del peso, en la cual se predice, a menor peso mayor rendimiento corporal.
   ![Imagen8](/imagenes/peso_visualize_error.jpeg) 
 
   
